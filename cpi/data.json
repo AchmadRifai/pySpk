@@ -1,0 +1,22 @@
+[
+	{"nama":"Toni","args":"Pengalaman","val":8},
+	{"nama":"Roni","args":"Pengalaman","val":7},
+	{"nama":"Joni","args":"Pengalaman","val":9},
+	{"nama":"Soni","args":"Pengalaman","val":5},
+	{"nama":"Toni","args":"Tingkat Pendidikan","val":8},
+	{"nama":"Roni","args":"Tingkat Pendidikan","val":6},
+	{"nama":"Joni","args":"Tingkat Pendidikan","val":7},
+	{"nama":"Soni","args":"Tingkat Pendidikan","val":8},
+	{"nama":"Toni","args":"Keterlambatan","val":2},
+	{"nama":"Roni","args":"Keterlambatan","val":2},
+	{"nama":"Joni","args":"Keterlambatan","val":3},
+	{"nama":"Soni","args":"Keterlambatan","val":1},
+	{"nama":"Toni","args":"Kecerdasan","val":8},
+	{"nama":"Roni","args":"Kecerdasan","val":9},
+	{"nama":"Joni","args":"Kecerdasan","val":8},
+	{"nama":"Soni","args":"Kecerdasan","val":7},
+	{"nama":"Toni","args":"Emosi","val":9},
+	{"nama":"Roni","args":"Emosi","val":5},
+	{"nama":"Joni","args":"Emosi","val":6},
+	{"nama":"Soni","args":"Emosi","val":4}
+]

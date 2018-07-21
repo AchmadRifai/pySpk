@@ -1,0 +1,14 @@
+{
+	"gej":[1,2,6,7,8],
+	"data":[
+		{"cocok":2,"kasus":2},
+		{"cocok":3,"kasus":3},
+		{"cocok":2,"kasus":4},
+		{"cocok":1,"kasus":3},
+		{"cocok":3,"kasus":3},
+		{"cocok":4,"kasus":4},
+		{"cocok":4,"kasus":7},
+		{"cocok":5,"kasus":7},
+		{"cocok":4,"kasus":7}
+	]
+}

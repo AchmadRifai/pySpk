@@ -1,0 +1,7 @@
+[
+	{"nama":"Pengalaman","bobot":0.3,"arah":"positif"},
+	{"nama":"Tingkat Pendidikan","bobot":0.25,"arah":"positif"},
+	{"nama":"Keterlambatan","bobot":0.1,"arah":"negatif"},
+	{"nama":"Kecerdasan","bobot":0.25,"arah":"positif"},
+	{"nama":"Emosi","bobot":0.1,"arah":"negatif"}
+]

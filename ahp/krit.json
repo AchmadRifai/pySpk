@@ -1,0 +1,26 @@
+{
+	"field":[
+		{"nama":"Harga","n":2,"RI":0,"cb":"COST"},
+		{"nama":"Kualitas","n":3,"RI":0.58,"cb":"BENEFIT"},
+		{"nama":"Fitur","n":4,"RI":0.9,"cb":"BENEFIT"},
+		{"nama":"Populer","n":5,"RI":1.12,"cb":"BENEFIT"},
+		{"nama":"Purna Jual","n":6,"RI":1.24,"cb":"BENEFIT"},
+		{"nama":"Keawetan","n":7,"RI":1.32,"cb":"BENEFIT"}
+	],"pengaruh":[
+		{"n1":"Kualitas","n2":"Harga","kep":5},
+		{"n1":"Fitur","n2":"Harga","kep":5},
+		{"n1":"Populer","n2":"Harga","kep":5},
+		{"n1":"Purna Jual","n2":"Harga","kep":3},
+		{"n1":"Keawetan","n2":"Harga","kep":3},
+		{"n1":"Kualitas","n2":"Fitur","kep":1},
+		{"n1":"Kualitas","n2":"Populer","kep":1},
+		{"n1":"Kualitas","n2":"Purna Jual","kep":3},
+		{"n1":"Kualitas","n2":"Keawetan","kep":3},
+		{"n1":"Fitur","n2":"Populer","kep":1},
+		{"n1":"Fitur","n2":"Purna Jual","kep":3},
+		{"n1":"Fitur","n2":"Keawetan","kep":3},
+		{"n1":"Populer","n2":"Purna Jual","kep":3},
+		{"n1":"Populer","n2":"Keawetan","kep":3},
+		{"n1":"Purna Jual","n2":"Keawetan","kep":1}
+	]
+}
